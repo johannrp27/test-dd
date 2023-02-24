@@ -2,7 +2,7 @@
 
 There are 2 options to build the test in. You can select Option A or Option B, you do not need to carry out both tests.
 
-Choose the one you prefer.
+Choose the one you prefer. [Click to visit site with test](https://johannrp27.github.io/test-dd/)
 
 #### Option A
 HTML/CSS
