@@ -1,0 +1,51 @@
+[
+  {
+    "id": "a1",
+    "title": "Tourmaline & Eucalyptus Bar Soap",
+    "description": "Recharge your skin with the super energizing power of finely crushed tourmaline powder blended with natural complexion",
+    "price": 12.00,
+    "imgSrc": "https://via.placeholder.com/400x220?text=Soap+Eucalyptus"
+  },
+  {
+    "id": "b1",
+    "title": "Tourmaline & Aragan Oil Bar Soap",
+    "description": "Recharge your skin with the super energizing power of finely crushed tourmaline powder blended with natural complexion",
+    "price": 12.00,
+    "imgSrc": "https://via.placeholder.com/400x220?text=Soap+Aragan"
+  },
+  {
+    "id": "c3",
+    "title": "Tourmaline & Tea Tree Bar Soap",
+    "description": "Recharge your skin with the super energizing power of finely crushed tourmaline powder blended with natural complexion",
+    "price": 12.00,
+    "imgSrc": "https://via.placeholder.com/400x220?text=Soap+Tea"
+  },
+  {
+    "id": "d4",
+    "title": "Tourmaline Unscented Bar Soap",
+    "description": "Recharge your skin with the super energizing power of finely crushed tourmaline powder blended with natural complexion",
+    "price": 12.00,
+    "imgSrc": "https://via.placeholder.com/400x220?text=Soap+Unscented"
+  },
+  {
+    "id": "e5",
+    "title": "Tourmaline & Eucalyptus Bar Soap",
+    "description": "Recharge your skin with the super energizing power of finely crushed tourmaline powder blended with natural complexion",
+    "price": 12.00,
+    "imgSrc": "https://via.placeholder.com/400x220?text=Soap+Eucalyptus"
+  },
+  {
+    "id": "f6",
+    "title": "Tourmaline & Eucalyptus Bar Soap",
+    "description": "Recharge your skin with the super energizing power of finely crushed tourmaline powder blended with natural complexion",
+    "price": 12.00,
+    "imgSrc": "https://via.placeholder.com/400x220?text=Soap+Eucalyptus"
+  },
+  {
+    "id": "g7",
+    "title": "Tourmaline & Aragan Oil Bar Soap",
+    "description": "Recharge your skin with the super energizing power of finely crushed tourmaline powder blended with natural complexion",
+    "price": 12.00,
+    "imgSrc": "https://via.placeholder.com/400x220?text=Soap+Aragan"
+  }
+]

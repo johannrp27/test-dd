@@ -1,0 +1,21 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+html,
+body {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: auto;
+  -moz-osx-font-smoothing: auto;
+
+}
+
+.props div {
+  @apply rounded-xl;
+}
+
+.empty-card {
+  min-height: 600px;
+}
