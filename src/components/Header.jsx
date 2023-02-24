@@ -23,7 +23,9 @@ export default function Header({ total }) {
           </svg>
         </div>
         <span
-          className="absolute rounded-full h-5 bg-amber-500 text-center text-sm bottom-3 left-5 px-2 leading-5"
+          className="rounded-full text-center text-sm leading-5
+          h-5 bottom-3 left-5 px-2 absolute
+          bg-amber-500 text-white font-semibold"
         >
           {total}
         </span>
@@ -31,10 +33,6 @@ export default function Header({ total }) {
     </nav>
   );
 }
-Header.defaultProps = {
-  total: 0,
-};
-
 Header.propTypes = {
-  total: PropTypes.number,
+  total: PropTypes.number.isRequired,
 };
